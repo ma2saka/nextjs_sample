@@ -1,6 +1,6 @@
 # next.js + typescript + redux (2019/4)
 
-手習い。
+以下を参考に手習いしたもの。
 
 - https://fiveteesixone.lackland.io/2018/12/09/nextjs-with-typescript-1/
 
